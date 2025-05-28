@@ -1,0 +1,7 @@
+# ignore all venv inside subprojects
+**/venv/
+**/__pycache__/
+**/*.pyc
+
+
+**/.env
